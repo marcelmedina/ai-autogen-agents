@@ -2,7 +2,7 @@ asyncio==3.4.3
 asyncio-atexit==1.0.1
 autogen-core==0.4.5
 autogen-agentchat==0.4.5
-autogen-ext[openai,azure]==0.4.5
+autogen-ext[openai,azure,magentic-one]==0.4.5
 azure-identity==1.19.0
 docker==7.1.0
 openai==1.61.1
